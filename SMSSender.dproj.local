@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/20 21:30:10.000.299,=C:\Users\luanr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/14 20:18:50.000.882,=C:\Users\luanr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/14 20:35:00.000.325,C:\Users\luanr\OneDrive\Área de Trabalho\API SMS DELPHI\main.pas=C:\Users\luanr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/14 20:35:00.000.325,C:\Users\luanr\OneDrive\Área de Trabalho\API SMS DELPHI\main.dfm=C:\Users\luanr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/08/14 20:35:20.000.593,C:\Users\luanr\OneDrive\Área de Trabalho\API SMS DELPHI\SMSSender.dproj=C:\Users\luanr\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
